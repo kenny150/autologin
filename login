@@ -1,7 +1,7 @@
 #!/bin/bash
 
-USER='sprdn05'
-PASS='6AbBl3(!?0cEN!7p'
+USER='usuario aqui'
+PASS='senha aqui'
 SERVER="$1"
 
 
